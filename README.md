@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pratheeba21
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m currently learning html,css,js
+- 📫 How to reach me pratheebas887@gmail.com
