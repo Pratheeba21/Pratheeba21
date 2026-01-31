@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Pratheeba21
-- 👩‍💻Proficient in Java
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning html,css,js
-- 📫 How to reach me pratheebas887@gmail.com
+- Proficient in Java
+- Corporate Trainer
+- MERN Stack Mentor
+- Skilled in Java, Python, Web Technologies, React, and Django
+- Experience training engineering students in hands-on programming and real-time project development.
+- Passionate about mentoring learners, simplifying complex concepts, and bridging the gap between academic learning and industry needs.
+- How to reach me pratheebas887@gmail.com
