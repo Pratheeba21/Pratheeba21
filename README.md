@@ -2,7 +2,7 @@
 - Proficient in Java
 - Corporate Trainer
 - MERN Stack Mentor
-- Skilled in Java, Python, Web Technologies, React, and Django
+- Skilled in Java, Python, Web Technologies, React, Flask, Django and AIML
 - Experience training engineering students in hands-on programming and real-time project development.
-- Passionate about mentoring learners, simplifying complex concepts, and bridging the gap between academic learning and industry needs.
+- Passionate about mentoring learners, simplifying complex concepts, and bridging the gap between academic learning and industry needs and developing full fledged application.
 - How to reach me pratheebas887@gmail.com
